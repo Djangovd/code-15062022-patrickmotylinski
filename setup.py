@@ -14,7 +14,7 @@ setup(
     long_description=LONG_DESCRIPTION,
     url="https://github.com/Djangovd/code-15062022-patrickmotylinski",
     license='MIT',
-    python_requires='>=3.9',
+    python_requires='>=3.8',
     install_requires=[],
     packages=find_packages()
 )
