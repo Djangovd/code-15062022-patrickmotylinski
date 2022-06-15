@@ -13,7 +13,7 @@ Please note: in Question 2: we count everyone who is overweight or more (i.e. ob
 The code has not been registered on PyPI, thus only local installations are possible. This code was developed using python v. 3.9.7
 
 ### Build wheel
-'~> python setup.py bdist_wheel'  
+`~> python setup.py bdist_wheel`  
   
 ### Install wheel
 The corresponding wheel will be located in the `dist` folder.  
